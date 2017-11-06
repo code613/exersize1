@@ -11,6 +11,7 @@ namespace testProjectForGitHub
         static void Main(string[] args)
         {
             Console.WriteLine("a clever comment gose here");
+            Console.WriteLine("i don't understand how to change zeev's project");
         }
     }
 }
