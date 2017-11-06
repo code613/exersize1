@@ -1,0 +1,2 @@
+c:\users\ted\documents\visual studio 2015\Projects\testProjectForGitHub\testProjectForGitHub\bin\Debug\testProjectForGitHub.exe.config
+C:\Users\Ted\Documents\GitHub\exersize1\testProjectForGitHub\testProjectForGitHub\bin\Debug\testProjectForGitHub.exe.config
